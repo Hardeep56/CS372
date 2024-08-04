@@ -1,0 +1,3 @@
+Name: Hardeep, Address: Garry, GPA: 2.7
+Name: Singh, Address: 562 yellow rode, GPA: 3.99
+Name: karen, Address: 897 dillo rd, GPA: 3.4
